@@ -2,7 +2,7 @@
 
 from setuptools import setup
 
-with open('README.rst') as h_rst:
+with open('README.md') as h_rst:
     LONG_DESCRIPTION = h_rst.read()
 
 with open('docs/changes.rst') as h_rst:
